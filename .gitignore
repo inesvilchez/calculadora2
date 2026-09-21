@@ -1,0 +1,5 @@
+__psycache__/
+*.pyc
+.venv/
+.env
+.vscode/
